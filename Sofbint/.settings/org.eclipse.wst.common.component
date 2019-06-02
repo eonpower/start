@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Sofbint">
+    <wb-module deploy-name="Softbint">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="Sofbint"/>
-        <property name="java-output-path" value="/Sofbint/build/classes"/>
+        <property name="java-output-path" value="/Softbint/build/classes"/>
+        <property name="context-root" value="Softbint"/>
     </wb-module>
 </project-modules>
