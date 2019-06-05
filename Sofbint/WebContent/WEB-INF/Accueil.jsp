@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <title>CoHost - Free Bootstrap 4 Template by Colorlib</title>
     <meta charset="utf-8">
@@ -497,7 +497,7 @@
 		                <h2 class="mb-4">Next gen VPS hosting</h2>
 		              	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 		                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt voluptate, quibusdam sunt iste dolores consequatur</p>
-		                <p><a href="#" class="btn btn-primary py-3">Get in touch</a></p>
+		                <p><a href="#" class="btn btn-success py-3">Get in touch</a></p>
 		              </div>
 	              </div>
               </div>
